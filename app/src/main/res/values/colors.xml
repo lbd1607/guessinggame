@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="winner">#3bd63e</color>
+    <color name="not_winner">#6726b6</color>
+    <color name="bg">#f9f7ff</color>
+</resources>
